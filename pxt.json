@@ -11,7 +11,8 @@
         "crate.md",
         "final.md",
         "floor.md",
-        "sneak.md"
+        "sneak.md",
+        "no_coding"
     ],
     "targetVersions": {
         "target": "1.6.8",
