@@ -6,3 +6,9 @@
 
 ## Step 1
 まだコードは必要ないよ  
+
+```template
+player.onChat("run", function () {
+})
+```
+
