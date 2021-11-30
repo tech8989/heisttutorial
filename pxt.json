@@ -12,7 +12,7 @@
         "final.md",
         "floor.md",
         "sneak.md",
-        "no_coding"
+        "no_coding.md"
     ],
     "targetVersions": {
         "target": "1.6.8",
