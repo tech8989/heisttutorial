@@ -5,7 +5,7 @@
 # nocode
 
 ## Step 1
-まだコードは必要ないよ  
+コードは必要ないよ  
 
 ```template
 player.onChat("run", function () {
